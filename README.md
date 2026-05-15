@@ -54,6 +54,12 @@ Or use GNOME Bluetooth settings (Settings → Bluetooth).
 python3 nothing_ear_linux.py
 ```
 
+Or, with Nix flakes:
+
+```bash
+nix run github:OPIYOdev/Nothing-Ear-Linux-
+```
+
 The app will automatically scan for paired Nothing devices. Select yours from the dropdown and click **CONNECT**.
 
 ---

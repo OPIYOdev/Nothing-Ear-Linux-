@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Nothing Ear Linux
+Comment=Unofficial companion app for Nothing Ear earbuds
+Exec=nothing-ear-linux
+Icon=audio-headphones
+Terminal=false
+Type=Application
+Categories=Audio;Bluetooth;GTK;
